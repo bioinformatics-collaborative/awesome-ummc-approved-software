@@ -32,8 +32,8 @@ Also view a [table](#do-i-need-admin-to-install) of whether a software requires 
 
 #### SSH Clients
 
-* [MobaXterm](https://mobaxterm.mobatek.net/) - Highly recommended.
-* [PuTTY](http://www.putty.org/)
+* [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
+* [PuTTY](http://www.putty.org/) - an SSH and telnet client, developed originally by Simon Tatham for the Windows platform. PuTTY is open source software that is available with source code and is developed and supported by a group of volunteers.
 
 #### Virtual Machine
 
@@ -67,10 +67,10 @@ Also view a [table](#do-i-need-admin-to-install) of whether a software requires 
 
 ## Do I Need Admin to Install
 
-| Software |   Requires Admin?  |
-|:--------:|:------------------:|
-|  Spotify |         :x:        |
-|  Rstudio | :white_check_mark: |
+| Software |   Requires Admin?  | License needed?    |
+|:--------:|:------------------:|:------------------:|
+|  Spotify |         :x:        | free               |
+|  Rstudio | :white_check_mark: | open-source/free   |
 
 ## MCSR
 
