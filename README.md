@@ -67,10 +67,10 @@ Also view a [table](#do-i-need-admin-to-install) of whether a software requires 
 
 ## Do I Need Admin to Install
 
-| Software | Requires Admin?    |
-|----------|--------------------|
-| Spotify  | :x:                |
-| Rstudio  | :white_check_mark: |
+| Software |   Requires Admin?  |
+|:--------:|:------------------:|
+|  Spotify |         :x:        |
+|  Rstudio | :white_check_mark: |
 
 ## MCSR
 
