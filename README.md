@@ -2,7 +2,7 @@
 
  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  
-A curated list of awesome software that UMMC has approved for us to use.  It will help us expedite our IT software requests.
+A curated list of awesome software that UMMC has approved for us to use.  It will help us expedite our [IT software requests](https://apps.umc.edu/SWRS/UserMenu.ctrl?action=Display).
 
 Also view a [table](#do-i-need-admin-to-install) of whether a software requires admin to install or not.
 
@@ -67,10 +67,22 @@ Also view a [table](#do-i-need-admin-to-install) of whether a software requires 
 
 ## Do I Need Admin to Install
 
-| Software |   Requires Admin?  | License needed?    |
-|:--------:|:------------------:|:------------------:|
-|  Spotify |         :x:        | free               |
-|  Rstudio | :white_check_mark: | open-source/free   |
+| Software                      |   Requires Admin?     | License needed?    |
+|:-----------------------------:|:---------------------:|:------------------:|
+|  Spotify                      |         :x:           | free               |
+|  Rstudio                      | :white_check_mark:    | open-source/free   |
+|  MobaXterm                    | :white_check_mark:    | open-source/free   |
+|  R                            | :white_check_mark:    | open-source/free   |
+|  Python                       | :white_check_mark:    | open-source/free   |
+|  Anaconda                     | :white_check_mark:    | open-source/free   |
+|  Tableau                      | :white_check_mark:    | open-source/free   |
+|  Rtools                       | :white_check_mark:    | open-source/free   |
+|  RStudio                      | :white_check_mark:    | open-source/free   |
+|  Slack                        |         :x:           | free               |
+|  GraphPad Prism 7             | :white_check_mark:    | license            |
+|  Microsoft Visio Professional | :white_check_mark:    | free               |
+|  PuTTy                        |         :x:           | open-source/free   |
+|  Vmware player                |  :white_check_mark:   | free               |
 
 ## MCSR
 
