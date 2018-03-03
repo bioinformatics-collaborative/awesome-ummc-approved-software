@@ -73,19 +73,19 @@ Also view a [table](#do-i-need-admin-to-install) of whether a software requires 
 |:-----------------------------:|:---------------------:|:------------------:|:------------------:|
 |  Spotify                      |         :x:           | free               |                    |
 |  MobaXterm                    | :white_check_mark:    | open-source/free   |                    |
-|  R                            | :white_check_mark:    | open-source/free   |    [88796]()       |
+|  R                            | :white_check_mark:    | open-source/free   |    [88796](https://github.com/bioinformatics-collaborative/awesome-ummc-approved-software/blob/master/help_desk_tickets/%2388796.pdf)       |
 |  Python                       | :white_check_mark:    | open-source/free   |                    |
 |  Anaconda                     | :white_check_mark:    | open-source/free   |                    |
 |  Tableau                      | :white_check_mark:    | open-source/free   |                    |
-|  Rtools                       | :white_check_mark:    | open-source/free   |    [88796]()       |
-|  RStudio                      | :white_check_mark:    | open-source/free   |    [88796]()       |
+|  Rtools                       | :white_check_mark:    | open-source/free   |    [88796](https://github.com/bioinformatics-collaborative/awesome-ummc-approved-software/blob/master/help_desk_tickets/%2388796.pdf)       |
+|  RStudio                      | :white_check_mark:    | open-source/free   |    [88796](https://github.com/bioinformatics-collaborative/awesome-ummc-approved-software/blob/master/help_desk_tickets/%2388796.pdf)       |
 |  Slack                        |         :x:           | free               |                    |
 |  GraphPad Prism 7             | :white_check_mark:    | license            |                    |
 |  Microsoft Visio Professional | :white_check_mark:    | free               |                    |
 |  PuTTy                        |         :x:           | open-source/free   |                    |
 |  Vmware player                |  :white_check_mark:   | free               |                    |
-|  MiKTeX                       |  :white_check_mark:   | free               |    [132288]()      |
-|  NCBI Blast+                  |  :white_check_mark:   | free               |    [139149]()      |
+|  MiKTeX                       |  :white_check_mark:   | free               |    [132288](https://github.com/bioinformatics-collaborative/awesome-ummc-approved-software/blob/master/help_desk_tickets/%23132288.pdf)      |
+|  NCBI Blast+                  |  :white_check_mark:   | free               |    [139149](https://github.com/bioinformatics-collaborative/awesome-ummc-approved-software/blob/master/help_desk_tickets/%23139149.pdf)      |
 
 ## MCSR
 
