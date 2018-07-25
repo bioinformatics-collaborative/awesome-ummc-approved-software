@@ -2,7 +2,7 @@
 
  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  
-A curated list of awesome software that UMMC has approved for us to use.  It will help us expedite our [IT software requests](https://apps.umc.edu/SWRS/UserMenu.ctrl?action=Display).
+A curated list of awesome software that UMMC has approved for us to use.  It will help us expedite our [IT software requests](http://myservicedesk.umsmed.edu).
 
 Check out our [contributing](https://github.com/bioinformatics-collaborative/awesome-ummc-approved-software/blob/master/CONTRIBUTING.rst) guide.
 
