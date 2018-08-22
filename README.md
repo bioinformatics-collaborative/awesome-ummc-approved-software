@@ -62,6 +62,7 @@ Also view a [table](#do-i-need-admin-to-install) of whether a software requires 
 * Todoist
   * OutlookTodoistADX
 * f.lux
+* Evernote
 
 ## Entertainment
 
@@ -80,6 +81,7 @@ Also view a [table](#do-i-need-admin-to-install) of whether a software requires 
 |  Rtools                       | :white_check_mark:    | open-source/free   |    [88796](https://github.com/bioinformatics-collaborative/awesome-ummc-approved-software/blob/master/help_desk_tickets/%2388796.pdf)       |
 |  RStudio                      | :white_check_mark:    | open-source/free   |    [88796](https://github.com/bioinformatics-collaborative/awesome-ummc-approved-software/blob/master/help_desk_tickets/%2388796.pdf)       |
 |  Slack                        |         :x:           | free               |                    |
+|  Evernote                     |         :x:           | free               |                    |
 |  GraphPad Prism 7             | :white_check_mark:    | license            |                    |
 |  Microsoft Visio Professional | :white_check_mark:    | free               |                    |
 |  PuTTy                        |         :x:           | open-source/free   |                    |
