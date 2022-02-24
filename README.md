@@ -28,25 +28,25 @@ Also view a [table](#do-i-need-admin-to-install) of whether a software requires 
 
 * [Anaconda](https://anaconda.org/) - Anaconda can be installed without requesting it and is use primarily for python and R programming.
     * [Microsoft Visual Studio Code](https://docs.anaconda.com/anaconda/user-guide/tasks/integration/vscode/) - Ships with the anaconda suite, but requires admin installation.
-* [Jetbrains](https://www.jetbrains.com/)
+* [Jetbrains](https://www.jetbrains.com/) - Free with `.edu` email address.
     * [Toolbox](https://www.jetbrains.com/toolbox/app/) - This helps you update common tools without oversight.
 * [GitHub Desktop](https://desktop.github.com/)
 * [Microsoft Visual Studio IDE](https://visualstudio.microsoft.com/vs/) - Fully-featured integrated development environment (IDE)
-for Android, iOS, Windows, web, and cloud
+for Android, iOS, Windows, web, and cloud.
 
 
 #### SSH Clients
 
-* [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
+* [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
 * [PuTTY](http://www.putty.org/) - an SSH and telnet client, developed originally by Simon Tatham for the Windows platform. PuTTY is open source software that is available with source code and is developed and supported by a group of volunteers.
 
-#### Virtual Machine
+#### Virtual Machines
 
 * [Vmware Player](https://www.vmware.com/products/workstation-player.html)
 * One other....???
 
 ## Statistics
-* [Tableau Public](https://public.tableau.com/en-us/s/)
+* [Tableau Public](https://public.tableau.com/en-us/s/) - Free with `.edu` email address.
 * [GraphPad Prism 7](https://www.graphpad.com/scientific-software/prism/)
 
 ## Biology
@@ -65,7 +65,7 @@ for Android, iOS, Windows, web, and cloud
 * Todoist
   * OutlookTodoistADX
 * f.lux
-* Evernote
+* Evernote - Discounted for `.edu` email address
 
 ## Entertainment
 
@@ -73,24 +73,24 @@ for Android, iOS, Windows, web, and cloud
 
 ## Do I Need Admin to Install
 
-| Software                      |   Requires Admin?     | License needed?    | Help Desk Ticket # |
-|:-----------------------------:|:---------------------:|:------------------:|:------------------:|
-|  Spotify                      |         :x:           | free               |                    |
-|  MobaXterm                    | :heavy_check_mark:    | open-source/free   |                    |
-|  R                            | :heavy_check_mark:    | open-source/free   |    [88796](https://github.com/bioinformatics-collaborative/awesome-ummc-approved-software/blob/master/help_desk_tickets/%2388796.pdf)       |
-|  Python                       | :heavy_check_mark:    | open-source/free   |                    |
-|  Anaconda                     | :heavy_check_mark:    | open-source/free   |                    |
-|  Tableau                      | :heavy_check_mark:    | open-source/free   |                    |
-|  Rtools                       | :heavy_check_mark:    | open-source/free   |    [88796](https://github.com/bioinformatics-collaborative/awesome-ummc-approved-software/blob/master/help_desk_tickets/%2388796.pdf)       |
-|  RStudio                      | :heavy_check_mark:    | open-source/free   |    [88796](https://github.com/bioinformatics-collaborative/awesome-ummc-approved-software/blob/master/help_desk_tickets/%2388796.pdf)       |
-|  Slack                        |         :x:           | free               |                    |
-|  Evernote                     |         :x:           | free               |                    |
-|  GraphPad Prism 7             | :heavy_check_mark:    | license            |                    |
-|  Microsoft Visio Professional | :heavy_check_mark:    | free               |                    |
-|  PuTTy                        |         :x:           | open-source/free   |                    |
-|  Vmware player                |  :heavy_check_mark:   | free               |                    |
-|  MiKTeX                       |  :heavy_check_mark:   | free               |    [132288](https://github.com/bioinformatics-collaborative/awesome-ummc-approved-software/blob/master/help_desk_tickets/%23132288.pdf)      |
-|  NCBI Blast+                  |  :heavy_check_mark:   | free               |    [139149](https://github.com/bioinformatics-collaborative/awesome-ummc-approved-software/blob/master/help_desk_tickets/%23139149.pdf)      |
-|  Node.js                      |  :heavy_check_mark:   | free               |                    |
-|  Todoist                      |  :x:                  | free               |                    |
-|  Microsoft Visual Studio Code |  :heavy_check_mark:   | free               |                    |
+| Software                      |   Requires Admin?     | License needed?    |
+|:-----------------------------:|:---------------------:|:------------------:|
+|  Spotify                      |         :x:           | free               |
+|  MobaXterm                    | :heavy_check_mark:    | open-source/free   |
+|  R                            | :heavy_check_mark:    | open-source/free   |
+|  Python                       | :heavy_check_mark:    | open-source/free   |
+|  Anaconda                     | :heavy_check_mark:    | open-source/free   |
+|  Tableau                      | :heavy_check_mark:    | open-source/free   |
+|  Rtools                       | :heavy_check_mark:    | open-source/free   |
+|  RStudio                      | :heavy_check_mark:    | open-source/free   |
+|  Slack                        |         :x:           | free               |
+|  Evernote                     |         :x:           | free               |
+|  GraphPad Prism 7             | :heavy_check_mark:    | license            |
+|  Microsoft Visio Professional | :heavy_check_mark:    | free               |
+|  PuTTy                        |         :x:           | open-source/free   |
+|  Vmware player                |  :heavy_check_mark:   | free               |
+|  MiKTeX                       |  :heavy_check_mark:   | free               |
+|  NCBI Blast+                  |  :heavy_check_mark:   | free               |
+|  Node.js                      |  :heavy_check_mark:   | free               |
+|  Todoist                      |  :x:                  | free               |
+|  Microsoft Visual Studio Code |  :heavy_check_mark:   | free               |
